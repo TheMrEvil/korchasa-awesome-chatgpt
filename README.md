@@ -1,9 +1,11 @@
 # Awesome ChatGPT
 
-> **Note:** This repository contains an automatically compiled list of frameworks, tools, and resources related to ChatGPT.
+Over time, this list has become irrelevant.
 
-A curated list of awesome ChatGPT and OpenAI software.
+- [Awesome MCPs](https://github.com/korchasa/awesome-mcp)
+- [Awesome AI Agents](https://github.com/korchasa/awesome-ai-agents)
 
+---
 
 Table of Contents:
 - [Documentation and examples](#documentation-and-examples) 
