@@ -3,6 +3,7 @@
 Over time, this list has become irrelevant.
 
 - [Awesome MCPs](https://github.com/korchasa/awesome-mcp)
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [Awesome AI Agents](https://github.com/korchasa/awesome-ai-agents)
 
 ---
